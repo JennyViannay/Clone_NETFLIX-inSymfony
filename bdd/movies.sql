@@ -28,7 +28,7 @@ INSERT INTO `movie` (`category_id`, `title`, `description`, `year`, `img`, `like
 (3, 'Agent Of Shield', 'lorem ipsum', 2014, 'https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv7.PNG?raw=true', 0, 'https://www.youtube.com/embed/T3T-evQZiQo'),
 (2, 'Marlon', 'lorem ipsum', 2015, 'https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv8.PNG?raw=true', 0, 'https://www.youtube.com/embed/5c0XocOHE2k'),
 (3, 'Cooking', 'lorem ipsum', 2016, 'https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv9.PNG?raw=true', 6, 'https://www.youtube.com/embed/epMAq5WYJk4'),
-(3, 'Queer Eye', 'lorem ipsum', 2020, 'https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv10.PNG?raw=true', 25, 'https://www.youtube.com/embed/GZMrivD2A
+(3, 'Queer Eye', 'lorem ipsum', 2020, 'https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv10.PNG?raw=true', 25, 'https://www.youtube.com/embed/GZMrivD2A'),
 (2, 'Shooter', 'lorem ipsum', 2017, 'https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv11.PNG?raw=true', 0, 'https://www.youtube.com/embed/A3lPVwYOdzA'),
 (1, 'Jessica Jones', 'lorem ipsum', 2017, 'https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv12.PNG?raw=true', 0, 'https://www.youtube.com/embed/nWHUjuJ8zxE'),
 (2, 'Wanted', 'lorem ipsum', 2015, 'https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m1.PNG?raw=true', 0, 'https://www.youtube.com/embed/lz0klawS0sw'),
