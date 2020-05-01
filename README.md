@@ -2,9 +2,9 @@
 
 ## Clone Netflix
 This project is a clone of Netflix.
-You can Register/Login/Logout
-There is also an administration part on /admin with CRUD for movies. (if you're logged in ADMIN role)
-When you're log in, you can like/dislike movies, search a movie by name or category.
+You can Register/Login/Logout <br>
+There is also an administration part on /admin with CRUD for movies. (if you're logged in ADMIN role)<br>
+When you're log in, you can like/dislike movies, search a movie by name or category.<br>
 
 With Fixtures, 2 users are created :
 + admin@gmail.com // mdp : admin
