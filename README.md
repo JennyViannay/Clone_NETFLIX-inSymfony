@@ -14,10 +14,10 @@ With Fixtures, 2 users are created :
 - Clone Repo
 - Launch composer install
 - Set access BDD in .env
-- Lauch ```php bin/console doctrine:create:database```
-- Lauch ```php bin/console make:migration```
-- Lauch ```php bin/console doctrine:make:migrate```
-- Lauch ```php bin/console make:fixture:load```
+- Launch ```php bin/console doctrine:create:database```
+- Launch ```php bin/console make:migration```
+- Launch ```php bin/console doctrine:make:migrate```
+- Launch ```php bin/console make:fixture:load```
 
 ### To get more DATA in movie :
 - In Folder BDD you can find some sql script to add more data on your database.
