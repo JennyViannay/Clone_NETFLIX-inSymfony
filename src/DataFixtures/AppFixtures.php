@@ -104,7 +104,7 @@ class AppFixtures extends Fixture
         $movie10->setTitle('Killing Eve');
         $movie10->setDescription('Lorem ipsum');
         $movie10->setYear(2018);
-        $movie10->setImg('https://lh3.googleusercontent.com/proxy/N5Mi4L8Z9q03wQN4dpHqYKM1_UUPG5tEyiIPS1XCNYN7ETxuq06dmj0hqCzJduaB_kHuAuewfaqDdfbfTJ-9w6-OmEcZzWkbHyfM7BnaSwYES3cT9tPbKqQmHylONnmG3RF27PP-ikjh5YOFBD_33K0v_pICQ-J0ysY5kjqwPA');
+        $movie10->setImg('https://lepetitjournal.com/sites/default/files/styles/main_article/public/2020-04/Capture%20d%E2%80%99e%CC%81cran%202020-04-24%20a%CC%80%2018.52.00.png?itok=Rpq6A79r');
         $movie10->setLikes(15);
         $movie10->setLink('https://www.youtube.com/embed/Kk0PyD-XNZA');
 

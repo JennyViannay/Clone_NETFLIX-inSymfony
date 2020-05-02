@@ -2,8 +2,8 @@
 
 namespace App\Controller;
 
+use App\Entity\Movie;
 use App\Repository\MoviesRepository;
-use App\Repository\UserRepository;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
@@ -35,9 +35,9 @@ class MoviesController extends AbstractController
     /**
      * @Route("/show/{id}", name="show-one")
      */
-    public function show(int $id): Response
+    public function show(Movie $movie): Response
     {
-        return $this->render('movies/show.html.twig', ['movie' => $this->repo->find($id)]);
+        return $this->render('movies/show.html.twig', ['movie' => $this->repo->find($movie)]);
     }
 
     /**
