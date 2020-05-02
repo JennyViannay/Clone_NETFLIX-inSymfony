@@ -26,4 +26,4 @@ With Fixtures, 2 users are created :
 - Launch```symfony serve```
 
 ## DEMO HERE 
-[Vidéo](https://www.loom.com/share/3d319551587f4869882a8163d524b22a)
+[![Watch the video](https://www.loom.com/share/3d319551587f4869882a8163d524b22a)
