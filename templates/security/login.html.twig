@@ -127,12 +127,12 @@
         <div class="login__group">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
         {% endif %}
         <div class="login__group">
-            <input class="login__group__input" type="email" value="admin@gmail.com" class="form-control" id="inputEmail"
+            <input class="login__group__input" type="email" class="form-control" id="inputEmail"
                 name="email" required>
             <label class="login__group__label" for="inputEmail"></label>
         </div>
         <div class="login__group">
-            <input class="login__group__input" type="password" name="password" value="admin" id="inputPassword"
+            <input class="login__group__input" type="password" name="password" id="inputPassword"
                 class="form-control" required>
             <label class="login__group__label" for="inputPassword"></label>
         </div>
